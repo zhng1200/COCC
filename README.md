@@ -1,2 +1,5 @@
 # COCC   
-Complaint Order Classification Corpus (投诉工单分类语料库)
+Complaint Order Classification Corpus (投诉工单分类语料库，简称 COCC)
+注：
+  1、该语料是用于投诉工单分类数据的研究（8类标签数据，每类数据300条，共2400条工单数据）
+  2、由于涉及到商业机密，该语料经过脱敏，仅用于科研等以非盈利性的用途，禁止用于商业研究。
